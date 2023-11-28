@@ -34,7 +34,7 @@ We hope you enjoy your time with us! Have fun!",
       {
         "tab2": {
           "layout": 4,
-          "buttontext": "Rules",
+          "buttontext": "<RichColor Color=\"1,0,0,1\">Rules</>",
           "title1": "Civility",
           "title2": "VIP",
           "title3": "World",
@@ -89,7 +89,7 @@ We hope you enjoy your time with us! Have fun!",
       {
         "tab3": {
           "layout": 2,
-          "buttontext": "Team",
+          "buttontext": "<RichColor Color=\"1,0,0,1\">Team</>",
           "title1": "Our Team",
           "title2": "Join Us",
           "text1": "Meet The 7 Legions ARK team!
@@ -117,7 +117,7 @@ To apply to join our team, visit us on Discord at https://discord.gg/the7legions
       {
         "tab4": {
           "layout": 1,
-          "buttontext": "Help",
+          "buttontext": "<RichColor Color=\"1,0,0,1\">Help</>",
           "title1": "Help and Support"
           "text1": "If you're having trouble in the game or another player is harassing you, please visit our Discord server at https://discord.gg/the7legions. There, you can submit a support ticket using our support-ticket channel.
 
@@ -129,13 +129,13 @@ When submitting a support ticket, please be clear about your issue. Additionally
     "links": [
       {
         "link1": {
-          "text": "Website",
+          "text": "<RichColor Color=\"1,0,0,1\">Website</>",
           "url": "https://the7legins.org"
         }
       },
       {
         "link2": {
-          "text": "Discord",
+          "text": "<RichColor Color=\"1,0,0,1\">Discord</>",
           "url": "https://discord.gg/the7legions"
         }
       }
