@@ -16,7 +16,7 @@
       {
         "tab1": {
           "layout": 2,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">About</>",
+          "buttontext": "About",
           "title1": "News",
           "title2": "The 7 Legions",
           "text1": "[2023-11-25 23:16] Due to a bug with Ark Shop, we've had to disable it temporarily. While it's disabled, you will not earn shop points. Sorry, this is necessary to enable our Xbox players to play.",
@@ -27,7 +27,7 @@
       {
         "tab2": {
           "layout": 4,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">Rules</>",
+          "buttontext": "Rules",
           "title1": "Civility",
           "title2": "VIP",
           "title3": "Building",
@@ -42,7 +42,7 @@
       {
         "tab3": {
           "layout": 2,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">Team</>",
+          "buttontext": "Team",
           "title1": "Our Team",
           "title2": "Join Us",
           "text1": "Meet The 7 Legions ARK team!\n\n[SERVER OWNER]\nLeo the Leopard\n\n[ARK HEAD ADMIN]\nLily Otter\n\n[ARK ADMINS]\n\n[ARK MODERATORS]\n\n[7 LEGIONS HEAD DEVELOPER]\nTrenyc\n\n[ARK DEVELOPERS]",
@@ -53,7 +53,7 @@
       {
         "tab4": {
           "layout": 1,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">Help</>",
+          "buttontext": "Help",
           "title1": "Help and Support",
           "text1": "If you're having trouble in the game or another player is harassing you, please visit our Discord server at https://discord.gg/the7legions. There, you can submit a support ticket using our support-ticket channel.\n\nWhen submitting a support ticket, please be clear about your issue. Additionally, if another player is harassing you, please collect evidence of the harassment when making your claim. This will allow us to more easily investigate.",
           "imageurl": ""
@@ -63,13 +63,13 @@
     "links": [
       {
         "link1": {
-          "text": "<RichColor Color=\"1,0,0,1\">Website</>",
+          "text": "Website",
           "url": "https://the7legins.org"
         }
       },
       {
         "link2": {
-          "text": "<RichColor Color=\"1,0,0,1\">Discord</>",
+          "text": "Discord",
           "url": "https://discord.gg/the7legions"
         }
       }
