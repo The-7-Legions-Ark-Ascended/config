@@ -2,8 +2,8 @@
   "WBUI2": {
     "settings": {
         "OpenButton": 4,
-        "HideIcon": false,
-        "HideIconAfter": 60,
+        "HideIcon": true,
+        "HideIconAfter": 90,
         "IconURL": "https://i.imgur.com/OZ6xOjY.png",
         "DisableIconText": false,
         "IconPosition": 0,
