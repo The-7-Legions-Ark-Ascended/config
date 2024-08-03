@@ -19,8 +19,8 @@
           "buttontext": "About",
           "title1": "News",
           "title2": "The 7 Legions",
-          "text1": "[2023-11-28 13:00 UTC] The speed stat is now available for leveling.\n\n[2023-11-25 23:16] Due to a bug with Ark Shop, we've had to disable it temporarily. While it's disabled, you will not earn shop points. Sorry, this is necessary to enable our Xbox players to play.",
-          "text2": "Welcome to The 7 Legions Ark: Survival Ascended!\n\nOur servers provide a familiar Ark experience, featuring combat, dino taming, map exploration, crafting, base building, and the thrill of discovery, all while aiming to improve quality of life for all of our players. Overall, our servers are configured to offer a relaxed gaming experience, with experience rates, harvest rates, engram points, taming/eggs/maturation/mating rates, and much more tweeked for your enjoyment. In addition, enjoy our 7 Legions Ark Survival Ascended cluster, featuring:\n\n* The Island\n* More maps to come as Wildcard releases them!\n\nWe hope you enjoy your time with us! Have fun!",
+          "text1": "IMPORTANT: Due to the design of the Forglar map, the Magic variety of dinos available there CANNOT be moved between servers. Do not try to cluster warp with a Magic Dino either in inventory or uploaded. It will not work; the dino data is not present on other servers. We will fix this as soon as it is possible to do so.\n\n[2024-08-03 14:00 UTC] We're back, baby! Now featuring a cluster, Primal Chaos, and Ark Descended! Other changes abound!",
+          "text2": "Welcome to The 7 Legions Ark: Survival Ascended!\n\nOur servers provide a familiar Ark experience, featuring combat, dino taming, map exploration, crafting, base building, and the thrill of discovery, all while aiming to improve quality of life and present a more challenging and rewarding progression curve for all of our players. Overall, our servers are configured to offer a relaxed gaming experience, with experience rates, harvest rates, engram points, taming/eggs/maturation/mating rates, and much more tweeked for your enjoyment. Enjoy our The 7 Legions Ark: Survival Ascended cluster, featuring:\n\n* The Island (official)\n* Scorched Earth (official)\n* The Center (official)\n* Insaluna (free) by armangamer777\n* Amissa (free) by sicco0803\n* Forglar (free) by SnowyTrain Studio\n* Forglar (premium) by SnowyTrain Studio\n\nWe hope you enjoy your time with us! Have fun!",
           "imageurl": ""
         }
       },
@@ -45,7 +45,7 @@
           "buttontext": "Team",
           "title1": "Our Team",
           "title2": "Join Us",
-          "text1": "Meet The 7 Legions Ark team!\n\n[SERVER OWNER]\nLeo the Leopard\n\n[ARK HEAD ADMIN]\nLily Otter\n\n[ARK ADMINS]\n\n[ARK MODERATORS]\n\n[7 LEGIONS HEAD DEVELOPER]\nTrenyc\n\n[ARK DEVELOPERS]",
+          "text1": "Meet The 7 Legions Ark team!\n\n[SERVER OWNER]\nLeo the Leopard\n\n[ARK HEAD ADMIN]\nLily Otter\n\n[ARK LEAD ADMIN]\nKorrin\n\n[7 LEGIONS HEAD DEVELOPER]\nTrenyc\n\n[ARK DEVELOPERS]",
           "text2": "We're recruiting!\n\nTo apply to join our team, visit us on Discord at https://discord.gg/the7legions. There, type /apply in the #recruitment-info channel. You'll receive a message from our Application Bot which will guide you through the application process.",
           "imageurl": ""
         }
@@ -64,7 +64,7 @@
       {
         "link1": {
           "text": "Website",
-          "url": "https://the7legins.org"
+          "url": "https://the7legions.org"
         }
       },
       {
