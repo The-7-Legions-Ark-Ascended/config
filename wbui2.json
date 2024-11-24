@@ -1,7 +1,7 @@
 {
   "WBUI2": {
     "settings": {
-        "OpenButton": 4,
+        "OpenButton": 0,
         "HideIcon": true,
         "HideIconAfter": 90,
         "IconURL": "https://the7legions.org/wp-content/uploads/2023/11/7Llogo-1.png",
@@ -20,8 +20,8 @@
           "title1": "News",
           "title2": "The 7 Legions",
           "title3": "You Should Know",
-          "text1": "IMPORTANT: Due to the design of the Forglar map, the Magic variety of dinos available there CANNOT be moved between servers. Do not try to cluster warp with a Magic Dino either in inventory or uploaded. It will not work; the dino data is not present on other servers. We will fix this as soon as it is possible to do so.\n\n[2024-08-03 14:00 UTC] We're back, baby! Now featuring a cluster, Primal Chaos, and Ark Descended! Other changes abound!",
-          "text2": "Welcome to The 7 Legions Ark: Survival Ascended!\n\nOur servers provide a familiar Ark experience, featuring combat, dino taming, map exploration, crafting, base building, and the thrill of discovery, all while aiming to improve quality of life and present a more challenging and rewarding progression curve for all of our players. Overall, our servers are configured to offer a relaxed gaming experience, with experience rates, harvest rates, engram points, taming/eggs/maturation/mating rates, and much more tweeked for your enjoyment. Enjoy our The 7 Legions Ark: Survival Ascended cluster, featuring:\n\n* The Island (official)\n* Scorched Earth (official)\n* The Center (official)\n* Insaluna (free) by armangamer777\n* Amissa (free) by sicco0803\n* Forglar (free) by SnowyTrain Studio\n* Forglar (premium) by SnowyTrain Studio\n\nWe hope you enjoy your time with us! Have fun!",
+          "text1": "[2024-11-23] Back and Back Again\nAfter the failure of our Ark hard drive, we're back with a smaller cluster. We will grow this cluster over time if the server grows. We had to rebuild these servers from scratch, so please let us know on our Discord if anything isn't working as it should. Have fun everyone!",
+          "text2": "Welcome to The 7 Legions Ark: Survival Ascended!\n\nOur servers provide a familiar Ark experience, featuring combat, dino taming, map exploration, crafting, base building, and the thrill of discovery, all while aiming to improve quality of life and present a more challenging and rewarding progression curve for all of our players. Overall, our servers are configured to offer a relaxed gaming experience, with experience rates, harvest rates, engram points, taming/eggs/maturation/mating rates, and much more tweeked for your enjoyment. Enjoy our The 7 Legions Ark: Survival Ascended cluster, featuring:\n\n* The Island (official)\n* Scorched Earth (official)\n* Aberration (official)\n\nWe hope you enjoy your time with us! Have fun!",
           "text3": "The mods we offer on our servers introduce alternative ways to do things that can sometimes lead to confusion. This section documents quirks that players have experienced that all players on our server should know about to reduce the odds of loss resulting from a misunderstanding of modded game mechanics. This is NOT an all-inclusive list of quirks; it's just ones that have impacted our players over time.\n\n- Modded dinos cannot be teleported into vanilla boss arenas by an obelisk. You CAN teleport modded dinos into a vanilla boss arena by feeding an Awesome Dino Tracker to the dino and then using the right click function of the Awesome Remove to summon that dino to you while you are inside the arena.",
           "imageurl": ""
         }
